@@ -4,7 +4,8 @@ reliable weather API.Easily access weather information with a simple click of th
 seamless experience for users.
 
 
-git clone https://github.com/Alageshwaran04/Weather-Api.git
+
 <h2>screenshot:</h2>
-![Screenshot (46)](https://github.com/Alageshwaran04/Weather-Api/assets/134389764/bf87dc1b-4d39-457f-b2d2-ee8efc714aec)
+
+![Screenshot (46)](https://github.com/Alageshwaran04/Weather-Api/assets/134389764/1da46a2d-3b9e-492d-8df8-6884177d644f)
 
