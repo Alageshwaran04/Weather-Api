@@ -1,0 +1,53 @@
+#weatherInfo{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 500px;
+    height: 300px;
+   
+    
+}
+input{
+    height: 30px;
+    width: 200px;
+}
+#search_btn{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(241, 52, 70);
+    color: rgb(243, 246, 249);
+    cursor: pointer;
+    border-radius: 20px;
+}
+#weatherContainer{
+    background-color:beige;
+    font-family:'Times New Roman', Times, serif;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 500px;
+    height: 300px;
+  
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("./bg.img");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#h1{
+    color:red;
+    font-weight: 400;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
